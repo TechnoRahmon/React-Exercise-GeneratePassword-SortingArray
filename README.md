@@ -13,7 +13,7 @@ You should open the root folder in your terminal then run :
 
 ### `npm install`
 
-This will download the App's Packegs that you need.
+This will download the App's Packages  that you need.
 
 ### `npm start`
 
